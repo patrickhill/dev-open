@@ -1,7 +1,7 @@
 # Open-dev Read Me 2010-10-10
 
 ## Purpose
-Opens current directory in Finder or Path Finder in Terminal and Sublime Text 2
+Opens current directory from Finder or Path Finder in Terminal and Sublime Text 2
 
 ## Dependencies
 * For best use, you'll need to use [Quicksilver](http://qsapp.com/) or  another app that can set keyboard shortcuts to run Applescripts.
