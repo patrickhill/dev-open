@@ -1,7 +1,7 @@
 # Open-dev Read Me 2010-10-10
 
 ## Purpose
-I found myself constantly having to drag files and folders into the Sublime Text or Terminal or navigating through terminal to get to files. This was annoying and slow so I created these scripts to open any selected file or folder from Finder or Path Finder in Terminal or Sublime Text.
+Opens current directory in Finder or Path Finder in Terminal and Sublime Text 2
 
 ## Dependencies
 * For best use, you'll need to use [Quicksilver](http://qsapp.com/) or  another app that can set keyboard shortcuts to run Applescripts.
