@@ -1,4 +1,5 @@
-# Open-dev Read Me 2010-10-10
+date: 2010-10-10
+# Open Folder Script
 
 ## Purpose
 Applescripts open active folder from Finder or Path Finder in Terminal and Sublime Text 2
