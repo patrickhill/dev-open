@@ -1,8 +1,8 @@
 date: 2010-10-10
-# Open Folder Script
+# Open Folder in Terminal and Sublime Text
 
 ## Purpose
-Applescripts open active folder from Finder or Path Finder in Terminal and Sublime Text 2
+Applescript to open active folder from Finder or Path Finder in Terminal and Sublime Text 2
 
 ## Dependencies
 * For best use, you'll need to use [Quicksilver](http://qsapp.com/) or  another app that can set keyboard shortcuts to run Applescripts.
@@ -24,3 +24,11 @@ Applescripts open active folder from Finder or Path Finder in Terminal and Subli
 2. Click 'edit' in the shortcut area
 3. Type the key command you'd like to use. Example: cmd+opt+o
 4. Contratulations, you're all set! Now you can select a file in your file browser of choice and open it Terminal or Sublime Text 2
+
+## References
+Stuff that helped me make these scripts.
+* <http://macscripter.net/viewtopic.php?id=35954>
+* <http://www.satimage.fr/software/en/smile/external_codes/file_paths.html>
+* <http://www.macosxtips.co.uk/index_files/run-applescripts-with-keyboard-shortcuts.php>
+* <https://github.com/Cottser/terminal-applescripts>
+* <https://developer.apple.com/library/mac/documentation/AppleScript/Conceptual/AppleScriptLangGuide/conceptual/ASLR_fundamentals.html>
